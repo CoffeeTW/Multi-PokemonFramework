@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Pokémon Framework",
+  "description": "CTRPluginFramework cheat engine and Pokémon memory editor for 3DS Pokémon Gen 6 (XY/ORAS) and Gen 7 (SM/USUM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
